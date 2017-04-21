@@ -1,0 +1,22 @@
+{
+    // theme
+    "workbench.colorTheme": "Solarized Dark",
+    "window.zoomLevel": 2,
+    "workbench.iconTheme": "vscode-icons",
+
+    // editor
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Monaco, 'PingFang SC', 'Courier New', monospace",
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+
+    "explorer.openEditors.visible": 1,
+
+    // view
+    "terminal.integrated.shell.windows": "D:\\Git\\bin\\bash.exe",
+
+    // file
+    "files.autoSave": "onWindowChange",
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true
+}
